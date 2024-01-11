@@ -8,23 +8,6 @@ chức năng cơ bản
 3 Đổi mật khẩu
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Đánh dâu cột mốc
 Kì 1 năm 3 21/08/23-29/10/23 (đây là thời gian học của môn lập trình hướng đối tượng, nhưng trường tôi bắt buộc sử dụng C++)
 bài tập lớn của tôi được hoàn thành trong vòng hơn 1 tháng xíu
