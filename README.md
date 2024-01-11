@@ -11,7 +11,7 @@
 - 2 tải các thư viện có hỗ trợ Winform ở Visual Studio 2019 (tải toàn bộ cho chắc)
 - 3 tạo 2 project 1 là Admin với Project1
 - 4 coppy các file .cpp .h .resx dán vào các project
-# Đánh dâu cột mốc
+# Đánh dấu cột mốc
 - Kì 1 năm 3 21/08/23-29/10/23 (đây là thời gian học của môn lập trình hướng đối tượng, nhưng trường tôi bắt buộc sử dụng C++)
 - bài tập lớn của tôi được hoàn thành trong vòng hơn 1 tháng xíu
 # khó khăn
