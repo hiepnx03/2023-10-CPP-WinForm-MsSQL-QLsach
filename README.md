@@ -12,6 +12,7 @@
 - 3 tạo 2 project 1 là Admin với Project1
 - 4 coppy các file .cpp .h .resx dán vào các project
 # HÌNH ẢNH
+![image](https://github.com/hiepnx03/2023-10-CPP-WinForm-MsSQL-QLsach/assets/71397941/07dad2e5-06d7-4d68-8380-6636521578cf)
 ADMIN
 - Login
 - ![image](https://github.com/hiepnx03/2023-10-CPP-WinForm-MsSQL-QLsach/assets/71397941/12e9c999-2482-4537-9dcd-70746e82a2e9)
